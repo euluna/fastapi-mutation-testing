@@ -1,0 +1,11 @@
+services:
+  mutation-tester:
+    build: .
+    volumes:
+      # This is the magic line: 
+      # "." means "the current directory on the host"
+      # "/work" is the directory inside the container
+      - .:/work
+    working_dir: /work
+    # This keeps the container running so they can hop in and out
+    tty: true
