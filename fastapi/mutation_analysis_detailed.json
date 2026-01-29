@@ -1,0 +1,286 @@
+{
+  "summary": {
+    "total": 112,
+    "killed": 73,
+    "survived": 39,
+    "score": 65.17857142857143
+  },
+  "survived_mutations": [
+    {
+      "id": 2,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 6,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 10,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 11,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 12,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 15,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 21,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 22,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 23,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 24,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 30,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 37,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 39,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 43,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 45,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 47,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 51,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 53,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 57,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 61,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 67,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 68,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 76,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 79,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 80,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 81,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 84,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 85,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 87,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 90,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 91,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 92,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 95,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 96,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 102,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 107,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 108,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 109,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    },
+    {
+      "id": 110,
+      "line": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "code_context": "      35: # Taken from Pydantic v1 as is\n      36: def isoformat(o: Union[datetime.date, datetime.time]) -> str:\n>>>   37:     return o.isoformat()\n      38: \n      39: "
+    }
+  ],
+  "killed_by_type": {
+    "ReturnNegate": 73
+  }
+}

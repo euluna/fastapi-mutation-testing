@@ -1,0 +1,473 @@
+{
+  "timestamp": "2026-01-27T22:43:14.159709",
+  "file": "fastapi\\encoders.py",
+  "total_mutations": 112,
+  "mutations_tested": 112,
+  "mutations_killed": 73,
+  "mutations_survived": 39,
+  "errors": 0,
+  "mutation_results": [
+    {
+      "mutation_id": 0,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 1,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 2,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 3,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 4,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 5,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 6,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 7,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 8,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 9,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 10,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 11,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 12,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 13,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 14,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 15,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 16,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 17,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 18,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 19,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 20,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 21,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 22,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 23,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 24,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 25,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 26,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 27,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 28,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 29,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 30,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 31,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 32,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 33,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 34,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 35,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 36,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 37,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 38,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 39,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 40,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 41,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 42,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 43,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 44,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 45,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 46,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 47,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 48,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 49,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 50,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 51,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 52,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 53,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 54,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 55,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 56,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 57,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 58,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 59,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 60,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 61,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 62,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 63,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 64,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 65,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 66,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 67,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 68,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 69,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 70,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 71,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 72,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 73,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 74,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 75,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 76,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 77,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 78,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 79,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 80,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 81,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 82,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 83,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 84,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 85,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 86,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 87,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 88,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 89,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 90,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 91,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 92,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 93,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 94,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 95,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 96,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 97,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 98,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 99,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 100,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 101,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 102,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 103,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 104,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 105,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 106,
+      "status": "KILLED"
+    },
+    {
+      "mutation_id": 107,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 108,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 109,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 110,
+      "status": "SURVIVED"
+    },
+    {
+      "mutation_id": 111,
+      "status": "KILLED"
+    }
+  ],
+  "mutation_types": {
+    "ReturnNegate": 17,
+    "CallRemove": 16,
+    "AssignValue": 15,
+    "IfNegate": 20,
+    "Compare": 9,
+    "IntConstant": 1,
+    "BoolOp": 7,
+    "ForLoopNegate": 5,
+    "NoneConstant": 10,
+    "BoolConstant": 5,
+    "UnaryOp": 7
+  },
+  "mutation_score": 65.17857142857143
+}

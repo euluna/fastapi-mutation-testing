@@ -1,0 +1,1016 @@
+{
+  "total_mutations": 112,
+  "mutations_killed": 73,
+  "mutations_survived": 39,
+  "mutation_score": 65.17857142857143,
+  "mutations": [
+    {
+      "id": 0,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 1,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 2,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 3,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 4,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 5,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 6,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 7,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 8,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 9,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 10,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 11,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 12,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 13,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 14,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 15,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 16,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 17,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 18,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 19,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 20,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 21,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 22,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 23,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 24,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 25,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 26,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 27,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 28,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 29,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 30,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 31,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 32,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 33,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 34,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 35,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 36,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 37,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 38,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 39,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 40,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 41,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 42,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 43,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 44,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 45,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 46,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 47,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 48,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 49,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 50,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 51,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 52,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 53,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 54,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 55,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 56,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 57,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 58,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 59,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 60,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 61,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 62,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 63,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 64,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 65,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 66,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 67,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 68,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 69,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 70,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 71,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 72,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 73,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 74,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 75,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 76,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 77,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 78,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 79,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 80,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 81,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 82,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 83,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 84,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 85,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 86,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 87,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 88,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 89,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 90,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 91,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 92,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 93,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 94,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 95,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 96,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 97,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 98,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 99,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 100,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 101,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 102,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 103,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 104,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 105,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 106,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    },
+    {
+      "id": 107,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 108,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 109,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 110,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "SURVIVED",
+      "survived": true,
+      "was_different": true
+    },
+    {
+      "id": 111,
+      "type": "ReturnNegate",
+      "description": "negate_return",
+      "line": 37,
+      "status": "KILLED",
+      "survived": false,
+      "was_different": true
+    }
+  ]
+}
